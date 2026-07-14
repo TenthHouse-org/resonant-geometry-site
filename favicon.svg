@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-70 -100 140 140">
+  <!-- Resonant Geometry favicon — simplified silhouette (no inner cutout, no accent dashes) for legibility at 16-32px. -->
+  <path d="M 7,-18 C 26,-28 44,-27 58,-38 C 54,-25 47,-19 39,-16 C 47,-15 55,-17 62,-22 C 56,-9 46,-4 36,-2 C 42,0 50,0 56,-1 C 47,8 33,9 22,5 C 14,2 9,-7 7,-18 Z" fill="#1a2332"/>
+  <path d="M 7,-18 C 26,-28 44,-27 58,-38 C 54,-25 47,-19 39,-16 C 47,-15 55,-17 62,-22 C 56,-9 46,-4 36,-2 C 42,0 50,0 56,-1 C 47,8 33,9 22,5 C 14,2 9,-7 7,-18 Z" fill="#1a2332" transform="scale(-1,1)"/>
+  <path d="M 0,-64 C 16,-42 20,-24 11,-8 C 7,-2 3,2 0,8 C -3,2 -7,-2 -11,-8 C -20,-24 -16,-42 0,-64 Z" fill="#1a2332"/>
+</svg>
